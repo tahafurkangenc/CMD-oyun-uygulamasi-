@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1657207745 source:c:\users\asus\desktop\taha's place\codeblocks denemeleri\oyunsalonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<math.h>
+
